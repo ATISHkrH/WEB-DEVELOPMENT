@@ -1,21 +1,21 @@
-gaming-store/               <-- This is your Root Repository folder
+gaming-store/               
 │
-├── database.sql            <-- Exported from phpMyAdmin (Optional, but good for backup)
-├── index.php               <-- Storefront Catalog
-├── product_view.php        <-- Single Product View
-├── cart.php                <-- Shopping Cart Loadout
-├── add_to_cart.php         <-- Cart handling logic
+├── database.sql          
+├── index.php               
+├── product_view.php        
+├── cart.php                
+├── add_to_cart.php         
 ├── login.php               
 ├── register.php            
 ├── logout.php              
 │
-├── config/                 <-- Database Connection Configuration
+├── config/               
 │   └── db.php
 │
-├── admin/                  <-- Secure Dashboard Command Center
+├── admin/                 
 │   ├── dashboard.php
 │   ├── add_product_logic.php
 │   ├── edit_product.php
 │   └── delete_product.php
 │
-└── uploads/                <-- Product images go here
+└── uploads/             
